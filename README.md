@@ -16,8 +16,8 @@
 
 ## SV10
 충돌 경보 예측
-### [EDA](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/EDA.ipynb)
-:(https://github.com/Cloover22/Portfolio_Data-Science/blob/master/EDA.ipynb)
+### EDA
+:[EDA.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/EDA.ipynb)
 
 ### Modeling
 
