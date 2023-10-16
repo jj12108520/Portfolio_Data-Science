@@ -11,7 +11,7 @@
 ### Development
 
 ### ppt
-
+[SV30_Project.pdf](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/EDA.ipynb))
 
 
 ## SV10
