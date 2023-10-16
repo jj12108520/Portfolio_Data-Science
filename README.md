@@ -17,6 +17,7 @@
 ## SV10
 충돌 경보 예측
 ### EDA
+EDA.ipynb
 
 ### Modeling
 
