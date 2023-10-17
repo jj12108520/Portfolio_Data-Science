@@ -5,6 +5,8 @@
 ### EDA
 [Trajectory_eda_except_Aship.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Trajectory_eda_except_Aship.ipynb)
 대형 선박 항적 EDA
+
+
 [Trajectory_eda_ship.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Trajectory_eda_ship.ipynb)
 선박 항적 EDA
 ### Preprocess
