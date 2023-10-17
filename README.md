@@ -4,12 +4,24 @@
 최적의 안전 항로 예측
 ### EDA
 [Trajectory_eda_except_Aship.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Trajectory_eda_except_Aship.ipynb)
+
 대형 선박 항적 EDA
 
 
 [Trajectory_eda_ship.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Trajectory_eda_ship.ipynb)
+
 선박 항적 EDA
 ### Preprocess
+[Macro_LTEM_preprocess_one_day.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Macro_LTEM_preprocess_one_day.ipynb)
+
+[SV30Preprocess.py](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/SV30Preprocess.py)
+
+항적 전처리 모듈
+
+
+[SV30_Preprocess_Pipeline.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/SV30_Preprocess_Pipeline.ipynb)
+
+전처리 파이프라인 설계 
 
 ### Visualization
 
