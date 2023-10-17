@@ -1,5 +1,5 @@
 # Portfolio_Data-Science
-
+열심히 했던 나의 기록들
 ## SV30
 최적의 안전 항로 예측
 ### EDA
