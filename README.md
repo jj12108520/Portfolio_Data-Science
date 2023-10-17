@@ -12,6 +12,7 @@
 ### Preprocess
 [Macro_LTEM_preprocess_one_day.ipynb](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/Macro_LTEM_preprocess_one_day.ipynb)
 -> 전처리 매크로
+
 [SV30Preprocess.py](https://github.com/Cloover22/Portfolio_Data-Science/blob/master/SV30/SV30Preprocess.py)
 -> 항적 전처리 모듈
 
